@@ -1,0 +1,15 @@
+﻿drawing_setup_file .\170dwgconfig.dtl
+tolerance_standard iso
+tolerance_class medium
+orientation isometric
+default_dec_places 2
+mdl_tree_cfg_file .\170modeltree.cfg
+sketcher_starts_in_2d yes
+disp_regen_success_msg yes
+display_point_tags yes
+display_plane_tags yes
+display_axis_tags yes
+comp_assemble_start constrain_in_window
+spin_with_part_entities yes
+spin_with_silhouettes yes
+tol_display no
